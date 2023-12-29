@@ -1,4 +1,4 @@
-// Variabless
+// Variables
 const cityName = document.querySelector('#weatherInput');
 const searchBtn = document.querySelector('#searchBtn');
 const form = document.getElementById('weatherForm');
